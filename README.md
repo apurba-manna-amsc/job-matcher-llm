@@ -90,7 +90,7 @@ This project is intended for educational and demonstrative purposes. Matching re
 
 ## 📬 Contact
 
-Made with 💙 by [Apurba Manna]  
+Made with 💙 by Apurba Manna 
 📧 98apurbamanna@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/apurba-manna/)
 
