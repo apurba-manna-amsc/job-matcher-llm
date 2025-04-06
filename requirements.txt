@@ -1,0 +1,4 @@
+openai
+streamlit
+python-dotenv  # optional, for loading env vars from .env
+PyPDF2
