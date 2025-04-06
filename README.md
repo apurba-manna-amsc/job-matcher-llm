@@ -28,7 +28,7 @@ Try it now: [Job Matcher App on Streamlit 🚀](https://job-matcher-llm-cggjbrpy
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/job-matcher-llm.git
+git clone https://https://github.com/apurba-manna-amsc/job-matcher-llm.git
 cd job-matcher-llm
 python -m venv env
 source env/bin/activate  # for Linux/macOS
